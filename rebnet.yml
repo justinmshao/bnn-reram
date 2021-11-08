@@ -1,0 +1,13 @@
+name: rebnet
+channels:
+  - menpo
+  - conda-forge
+  - defaults
+dependencies:
+  - jupyter
+  - python=3.8
+  - tensorflow==2.6.0
+  - keras
+  - matplotlib
+  - tensorflow-probability
+prefix: /Users/justinshao/opt/anaconda3/envs/rebnet
