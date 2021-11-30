@@ -1,0 +1,14 @@
+name: rebnet
+channels:
+  - oxfordcontrol
+  - defaults
+dependencies:
+  - python=3.8
+  - jupyter
+  - matplotlib
+  - tensorflow-probability
+  - keras
+  - tensorflow==2.6.0
+  - scikit-learn
+prefix: /home/levtauz/anaconda3/envs/rebnet
+
